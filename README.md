@@ -1,7 +1,14 @@
 # docker-gc
-Simple docker garbage collection that removes exited containers and dangling images
+Author: Gonzalo Marcote - gonzalomarcote@gmail.com
 
-## Usage
+License: GNU General Public License V3.0
+
+Disclaimer: For my own use. Use on your own (GNU GPL License). Don't give any support
+
+
+### Simple docker garbage collection that removes exited containers and dangling images
+
+#### Usage
 
 Loging to AWS repository if necessary:
 
